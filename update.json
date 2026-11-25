@@ -1,7 +1,7 @@
 {
-"versionCode": 3,
-"versionName": "1.1",
-"apkUrl": "https://github.com/arul638701/Rainbow-TV-Updates/releases/latest/download/Rainbow-TV.apk",
-"sha256": "0c15ebdb98cbaf60f6707b9482d979f43194b3801f4cf3fb514181fca1aa025c",
-"releaseNotes": "Rainbow TV 1.1 - Automatic app updates, secure APK verification, and existing Cloudflare channel sync."
+  "versionCode": 5,
+  "versionName": "1.3",
+  "apkUrl": "https://github.com/arul638701/Rainbow-TV-Updates/releases/latest/download/Rainbow-TV.apk",
+  "sha256": "6ccc9f73a0518bd3cbc8ad61914ea87ee0f4eca606f0e158202ca557c194847d",
+  "releaseNotes": "Rainbow TV 1.3 - Removed Tamil Local Working First sorting and coloured channel status indicators. Preserved A-Z sorting, channel logos, favourites, search and playback."
 }
