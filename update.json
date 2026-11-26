@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "1.3",
-  "apkUrl": "https://github.com/arul638701/Rainbow-TV-Updates/releases/latest/download/Rainbow-TV.apk",
-  "sha256": "6ccc9f73a0518bd3cbc8ad61914ea87ee0f4eca606f0e158202ca557c194847d",
-  "releaseNotes": "Rainbow TV 1.3 - Removed Tamil Local Working First sorting and coloured channel status indicators. Preserved A-Z sorting, channel logos, favourites, search and playback."
+  "versionCode": 6,
+  "versionName": "1.4",
+  "apkUrl": "https://github.com/arul638701/Rainbow-TV-Updates/releases/latest/download/Rainbow-Tv.apk",
+  "sha256": "bd0ef9aca89bba38b988ee1096c9302eaa978173c09513b734b9e4f16548802b",
+  "releaseNotes": "Rainbow TV 1.4 - Fixed all 9 missing Tamil TV channel logos. Improved channel logo loading during display. Preserved existing playback, favourites, search, A-Z sorting and channel order."
 }
