@@ -1,7 +1,8 @@
+
 {
-  "versionCode": 6,
-  "versionName": "1.4",
-  "apkUrl": "https://github.com/arul638701/Rainbow-TV-Updates/releases/latest/download/Rainbow-Tv.apk",
-  "sha256": "bd0ef9aca89bba38b988ee1096c9302eaa978173c09513b734b9e4f16548802b",
-  "releaseNotes": "Rainbow TV 1.4 - Fixed all 9 missing Tamil TV channel logos. Improved channel logo loading during display. Preserved existing playback, favourites, search, A-Z sorting and channel order."
+  "versionCode": 7,
+  "versionName": "1.5",
+  "apkUrl": "https://github.com/arul638701/Rainbow-TV-Updates/releases/latest/download/Rainbow-TV.apk",
+  "sha256": "1b4ae1a3aba2932477443b77b6d4db7a6335ef07119ce2dccb8997c28418ccf1",
+  "releaseNotes": "Rainbow TV 1.5 - Fixed Vasantham TV ordering in main channel listing and split-screen drawer. Vasantham is 7th in ALL and 3rd in International Tamil."
 }
